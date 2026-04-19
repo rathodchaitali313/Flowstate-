@@ -1,0 +1,6 @@
+.git
+.gitignore
+README.md
+FLOWSTATE_Pitch.md
+*.md
+node_modules
